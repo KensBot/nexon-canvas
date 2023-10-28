@@ -1,0 +1,32 @@
+{
+  "name": "nexon-canvas",
+  "version": "1.0.0",
+  "description": "BY KEN / NEXON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KensBot/nexon-canvas.git"
+  },
+  "keywords": [
+    "swiftcord",
+    "canvas",
+    "canvas discord",
+    "discord canvas",
+    "html",
+    "discord js",
+    "baileys",
+    "herokuapp"
+  ],
+  "author": "KEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KensBot/nexon-canvas/issues"
+  },
+  "homepage": "https://github.com/KensBot/nexon-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
